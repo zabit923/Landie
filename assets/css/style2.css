@@ -1,0 +1,83 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+
+  background: linear-gradient(#f0f8ff,#00ffff);
+
+  height: 769px;
+}
+
+
+::-webkit-scrollbar-thumb{
+  background: #091133;
+  border-radius: 15px;
+}
+
+::-webkit-scrollbar-track{
+  background: #a29e9e;
+}
+
+::-webkit-scrollbar{
+  width: 10px;
+}
+
+
+
+.tkt{
+  width: 820px;
+  height: 453px;
+  margin-left: 165px;
+  margin-top: 160px;
+}
+
+.tekst{
+  color: #091133;
+  font-weight: 500;
+  font-size: 36;
+}
+
+.lor{
+  color: #000000;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+
+
+.hh1{
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 26px;
+  color: #091133;
+}
+
+.hh2{
+  color: #000000;
+}
+
+.iconka1{
+  margin-top: -100px;
+  margin-left: 165px;
+}
+
+.iconka2{
+  margin-top: -190px;
+  margin-left: 560px;
+}
+
+.iconka3{
+  margin-left: 165px;
+  margin-top: 50px;
+}
+
+.iconka4{
+  margin-left: 560px;
+  margin-top: -190px;
+}
+
+.vert{
+  position: absolute;
+  margin-top: -796px;
+  margin-left: 500px;
+  pointer-events: none;
+}
